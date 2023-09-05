@@ -34,6 +34,12 @@ yarn android
 
 ### For iOS
 
+Before running iOS application, make sure that you installed all packages CocoaPod by doing this command
+```bash
+cd ios/
+pod install
+```
+
 ```bash
 # using npm
 npm run ios
